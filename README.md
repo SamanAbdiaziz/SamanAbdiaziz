@@ -10,10 +10,10 @@
 - 📫 How to reach me abdiazizsaman394@gmail.com
 
   <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/abdiaziz-saman-b78844272/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-instagram-URL">
+  <a href="https://www.instagram.com/a.azizla_/ ">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="your-twitter-URL">
