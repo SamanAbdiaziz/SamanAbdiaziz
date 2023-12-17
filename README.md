@@ -19,9 +19,10 @@
   <a href="https://twitter.com/a_azizla">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=SamanAbdiaziz&style=flat-square&color=blue" alt=""/>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=SamanAbdiaziz&style=flat-square&color=blue" alt=""/>
+
 
 <!---
 SamanAbdiaziz/SamanAbdiaziz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
