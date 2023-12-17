@@ -23,7 +23,7 @@
    I’m @SamanAbdiaziz
 </h1>
 
-- - 👀 I’m interested in Software Development
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on Software Development
 - 📫 How to reach me abdiazizsaman394@gmail.com
